@@ -6,6 +6,7 @@ namespace husu7
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HUSEIN");
             Console.WriteLine("Hello World!");
         }
     }
